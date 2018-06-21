@@ -43,8 +43,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>E:\opengl\OpenGL\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
-    <LibraryPath>E:\opengl\OpenGL\libs;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);</LibraryPath>
+    <IncludePath>E:\opengl\Autumn\hub\autumn\OpenGL\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <LibraryPath>E:\opengl\Autumn\hub\autumn\OpenGL\libs;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
